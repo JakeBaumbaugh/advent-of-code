@@ -1,0 +1,59 @@
+5 game scenarios
+5 game scenarios
+25 game scenarios
+25 game scenarios
+121 game scenarios
+121 game scenarios
+517 game scenarios
+517 game scenarios
+1997 game scenarios
+1997 game scenarios
+8341 game scenarios
+6140 game scenarios
+26740 game scenarios
+25112 game scenarios
+108133 game scenarios
+100930 game scenarios
+1269 ['poison', 'magic_missile', 'recharge', 'poison', 'shield', 'recharge', 'poison', 'drain', 'magic_missile']
+1269 ['poison', 'magic_missile', 'recharge', 'poison', 'recharge', 'shield', 'poison', 'drain', 'magic_missile']
+1269 ['poison', 'drain', 'recharge', 'poison', 'shield', 'recharge', 'poison', 'magic_missile', 'magic_missile']
+1269 ['poison', 'drain', 'recharge', 'poison', 'recharge', 'shield', 'poison', 'magic_missile', 'magic_missile']
+1269 ['poison', 'recharge', 'magic_missile', 'poison', 'shield', 'recharge', 'poison', 'drain', 'magic_missile']
+1269 ['poison', 'recharge', 'magic_missile', 'poison', 'recharge', 'shield', 'poison', 'drain', 'magic_missile']
+1269 ['poison', 'recharge', 'drain', 'poison', 'shield', 'recharge', 'poison', 'magic_missile', 'magic_missile']
+1269 ['poison', 'recharge', 'drain', 'poison', 'recharge', 'shield', 'poison', 'magic_missile', 'magic_missile']
+1269 ['poison', 'recharge', 'shield', 'poison', 'magic_missile', 'recharge', 'poison', 'drain', 'magic_missile']
+1269 ['poison', 'recharge', 'shield', 'poison', 'drain', 'recharge', 'poison', 'magic_missile', 'magic_missile']
+1269 ['poison', 'recharge', 'shield', 'poison', 'recharge', 'magic_missile', 'poison', 'drain', 'magic_missile']
+1269 ['poison', 'recharge', 'shield', 'poison', 'recharge', 'drain', 'poison', 'magic_missile', 'magic_missile']
+1269 ['poison', 'recharge', 'shield', 'poison', 'recharge', 'poison', 'magic_missile', 'drain', 'magic_missile']
+1269 ['poison', 'recharge', 'shield', 'poison', 'recharge', 'poison', 'drain', 'magic_missile', 'magic_missile']
+1269 ['poison', 'recharge', 'poison', 'shield', 'recharge', 'poison', 'magic_missile', 'drain', 'magic_missile']
+1269 ['poison', 'recharge', 'poison', 'shield', 'recharge', 'poison', 'drain', 'magic_missile', 'magic_missile']
+1269 ['poison', 'recharge', 'poison', 'recharge', 'shield', 'poison', 'magic_missile', 'drain', 'magic_missile']
+1269 ['poison', 'recharge', 'poison', 'recharge', 'shield', 'poison', 'drain', 'magic_missile', 'magic_missile']
+368135 game scenarios
+1289 ['poison', 'magic_missile', 'recharge', 'poison', 'shield', 'recharge', 'poison', 'drain', 'drain']
+1309 ['poison', 'magic_missile', 'recharge', 'poison', 'shield', 'recharge', 'poison', 'shield', 'magic_missile']
+1289 ['poison', 'magic_missile', 'recharge', 'poison', 'recharge', 'shield', 'poison', 'drain', 'drain']
+1289 ['poison', 'drain', 'recharge', 'poison', 'shield', 'recharge', 'poison', 'magic_missile', 'drain']
+1289 ['poison', 'drain', 'recharge', 'poison', 'shield', 'recharge', 'poison', 'drain', 'magic_missile']
+1289 ['poison', 'drain', 'recharge', 'poison', 'recharge', 'shield', 'poison', 'magic_missile', 'drain']
+1289 ['poison', 'drain', 'recharge', 'poison', 'recharge', 'shield', 'poison', 'drain', 'magic_missile']
+1289 ['poison', 'recharge', 'magic_missile', 'poison', 'shield', 'recharge', 'poison', 'drain', 'drain']
+1309 ['poison', 'recharge', 'magic_missile', 'poison', 'shield', 'recharge', 'poison', 'shield', 'magic_missile']
+1289 ['poison', 'recharge', 'magic_missile', 'poison', 'recharge', 'shield', 'poison', 'drain', 'drain']
+1289 ['poison', 'recharge', 'drain', 'poison', 'shield', 'recharge', 'poison', 'magic_missile', 'drain']
+1289 ['poison', 'recharge', 'drain', 'poison', 'shield', 'recharge', 'poison', 'drain', 'magic_missile']
+1289 ['poison', 'recharge', 'drain', 'poison', 'recharge', 'shield', 'poison', 'magic_missile', 'drain']
+1289 ['poison', 'recharge', 'drain', 'poison', 'recharge', 'shield', 'poison', 'drain', 'magic_missile']
+1289 ['poison', 'recharge', 'shield', 'poison', 'magic_missile', 'recharge', 'poison', 'drain', 'drain']
+1309 ['poison', 'recharge', 'shield', 'poison', 'magic_missile', 'recharge', 'poison', 'shield', 'magic_missile']
+1289 ['poison', 'recharge', 'shield', 'poison', 'drain', 'recharge', 'poison', 'magic_missile', 'drain']
+1289 ['poison', 'recharge', 'shield', 'poison', 'drain', 'recharge', 'poison', 'drain', 'magic_missile']
+1289 ['poison', 'recharge', 'shield', 'poison', 'recharge', 'magic_missile', 'poison', 'drain', 'drain']
+1309 ['poison', 'recharge', 'shield', 'poison', 'recharge', 'magic_missile', 'poison', 'shield', 'magic_missile']
+1289 ['poison', 'recharge', 'shield', 'poison', 'recharge', 'drain', 'poison', 'magic_missile', 'drain']
+1289 ['poison', 'recharge', 'shield', 'poison', 'recharge', 'drain', 'poison', 'drain', 'magic_missile']
+1309 ['poison', 'recharge', 'shield', 'poison', 'recharge', 'shield', 'poison', 'magic_missile', 'magic_missile']
+235795 game scenarios
